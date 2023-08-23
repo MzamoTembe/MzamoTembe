@@ -1,5 +1,5 @@
 <h1 align="center">👨🏽‍💻 Mzamo Tembe</h1>
-<h3 align="center">I am a web developer in my final year studying BIT Information Systems at the niversity of Pretoria.</h3>
+<h3 align="center">I am a web developer in my final year studying BIT Information Systems at the University of Pretoria.</h3>
 <img align="right" alt="Coding" width="200" max-height="200" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 - 🌱 I’m currently learning **Angular, .NET Framework and SQL.**
