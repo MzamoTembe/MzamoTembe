@@ -1,5 +1,5 @@
 <h1 align="center">👨🏽‍💻 Mzamo Tembe</h1>
-<h3 align="center">I am a software developer in my Honors year studying Bioinformatics and Computational Biology at the Stellenbosch University.</h3>
+<h3 align="center">I am a software developer in my Honors year studying Bioinformatics and Computational Biology at Stellenbosch University.</h3>
 <img align="right" alt="Coding" width="200" max-height="200" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 - 🧬 I’m currently learning **Bioinformatics**
@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/mzamotembe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mzamotembe" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mzamotembe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mzamotembe7" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/mzamotembe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mzamotembe7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
